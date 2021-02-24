@@ -1,0 +1,9 @@
+a="banana"
+b="orange"
+print(a+b)
+print(a*3)
+print("This is Anne's spam")
+c="5"
+d="10"
+e=c+d
+print(e)
